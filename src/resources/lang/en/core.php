@@ -17,9 +17,13 @@ return [
     "filter" => "Filter",
     "administration" => "Administration",
     "dev_env" => "Development environment",
+    "general" => "General",
+    "translations" => "Translations",
 
     "buttons" => [
-        "submit" => "Submit"
+        "submit" => "Submit",
+        "register" => "Register",
+        "cancel" => "Cancel",
     ],
 
     "weekdays" => "Weekdays",
