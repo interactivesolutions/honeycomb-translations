@@ -1,6 +1,9 @@
 <?php
 
 return [
+    "id"                 => "ID",
+    "name"               => "Name",
+    "description"        => "Description",
     "copyright"          => "©",
     "list"               => "List",
     "core"               => "All",
@@ -8,9 +11,6 @@ return [
     "nothing_to_delete"  => "Nothing to delete",
     "nothing_to_restore" => "Nothing to restore",
     "language_not_found" => "Language not found",
-    "id"                 => "ID",
-    "name"               => "Name",
-    "description"        => "Description",
     "label"              => "Label",
     "title"              => "Title",
     "index"              => "Index",
@@ -21,11 +21,14 @@ return [
     "translations"       => "Translations",
     "dimensions"         => "Dimensions",
     "more"               => "More",
+    "users"              => "Users",
 
     "buttons" => [
         "submit"   => "Submit",
         "register" => "Register",
         "cancel"   => "Cancel",
+        "login"    => "Login",
+        "send"     => "Send",
     ],
 
     "weekdays" => "Weekdays",
