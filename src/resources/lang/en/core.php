@@ -23,6 +23,8 @@ return [
     'more'               => 'More',
     'users'              => 'Users',
     'seo'                => 'Seo',
+    'groups'             => 'Groups',
+    'ownership'          => 'Ownership',
 
     'buttons' => [
         'submit'   => 'Submit',
