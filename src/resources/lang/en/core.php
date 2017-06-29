@@ -23,8 +23,13 @@ return [
     'more'               => 'More',
     'users'              => 'Users',
     'seo'                => 'Seo',
+    'seo_title'          => 'Seo title',
+    'seo_description'    => 'Seo description',
+    'seo_keywords'       => 'Seo keywords',
     'groups'             => 'Groups',
     'ownership'          => 'Ownership',
+    'select'             => 'Select',
+    'language'           => 'Language',
 
     'buttons' => [
         'submit'   => 'Submit',
