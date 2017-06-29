@@ -4,7 +4,7 @@ return [
     'id'                 => 'ID',
     'name'               => 'Name',
     'description'        => 'Description',
-    'copyright'          => '© ' . config ('app.name') . ' ' . \Carbon\Carbon::now ()->year . '.',
+    'copyright'          => '© ' . config('app.name') . ' ' . \Carbon\Carbon::now()->year . '.',
     'list'               => 'List',
     'core'               => 'All',
     'unknown_action'     => 'Unknown action:',
