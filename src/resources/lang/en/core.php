@@ -30,6 +30,7 @@ return [
     'ownership'          => 'Ownership',
     'select'             => 'Select',
     'language'           => 'Language',
+    'price'              => 'Price',
 
     'buttons' => [
         'submit'   => 'Submit',
