@@ -6,7 +6,8 @@ return [
     'description'        => 'Description',
     'copyright'          => '© ' . config('app.name') . ' ' . \Carbon\Carbon::now()->year . '.',
     'list'               => 'List',
-    'core'               => 'All',
+    'core'               => 'Core',
+    'all'                => 'All',
     'unknown_action'     => 'Unknown action:',
     'nothing_to_delete'  => 'Nothing to delete',
     'nothing_to_restore' => 'Nothing to restore',
@@ -31,6 +32,9 @@ return [
     'select'             => 'Select',
     'language'           => 'Language',
     'price'              => 'Price',
+    'owner'              => 'Owner',
+    'supplier'           => 'Supplier',
+    'producer'           => 'Producer',
 
     'buttons' => [
         'submit'   => 'Submit',
