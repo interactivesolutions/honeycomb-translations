@@ -35,6 +35,8 @@ return [
     'owner'              => 'Owner',
     'supplier'           => 'Supplier',
     'producer'           => 'Producer',
+    'yes' => 'Yes',
+    'no'  => 'No',
 
     'buttons' => [
         'submit'   => 'Submit',
@@ -42,11 +44,6 @@ return [
         'cancel'   => 'Cancel',
         'login'    => 'Login',
         'send'     => 'Send',
-    ],
-
-    'checkbox' => [
-        'yes' => 'Yes',
-        'no'  => 'No',
     ],
 
     'weekdays' => 'Weekdays',
