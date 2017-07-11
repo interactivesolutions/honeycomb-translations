@@ -4,7 +4,7 @@ return [
     'id'                 => 'ID',
     'name'               => 'Name',
     'description'        => 'Description',
-    'copyright'          => '© ' . config('app.name') . ' ' . \Carbon\Carbon::now()->year . '.',
+    'copyright'          => '© ' . config ('app.name') . ' ' . \Carbon\Carbon::now ()->year . '.',
     'list'               => 'List',
     'core'               => 'Core',
     'all'                => 'All',
@@ -35,8 +35,8 @@ return [
     'owner'              => 'Owner',
     'supplier'           => 'Supplier',
     'producer'           => 'Producer',
-    'yes' => 'Yes',
-    'no'  => 'No',
+    'yes'                => 'Yes',
+    'no'                 => 'No',
 
     'buttons' => [
         'submit'   => 'Submit',
