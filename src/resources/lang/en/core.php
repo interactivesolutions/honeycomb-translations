@@ -4,7 +4,11 @@ return [
     'id'                 => 'ID',
     'name'               => 'Name',
     'description'        => 'Description',
+<<<<<<< HEAD
     'copyright'          => '© 2014 - ' . config ('app.name') . ' ' . \Carbon\Carbon::now ()->year . '.',
+=======
+    'copyright'          => '© ' . config('app.name') . ' ' . \Carbon\Carbon::now()->year . '.',
+>>>>>>> 02ae0fbe1bd06832bca3751d17f615a9a5fec317
     'list'               => 'List',
     'core'               => 'Core',
     'all'                => 'All',
@@ -39,7 +43,12 @@ return [
     'no'                 => 'No',
     'from'               => 'From',
     'to'                 => 'To',
-
+    'updated'            => 'Updated',
+    'created'            => 'Created',
+    'deleted'            => 'Deleted',
+    'attributes'         => 'Attributes',
+    'no_translation'     => 'No translation',
+    
     'buttons' => [
         'submit'   => 'Submit',
         'register' => 'Register',
