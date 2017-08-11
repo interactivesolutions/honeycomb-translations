@@ -44,6 +44,7 @@ return [
     'deleted'            => 'Deleted',
     'attributes'         => 'Attributes',
     'no_translation'     => 'No translation',
+    'export'             => 'Export',
 
     'buttons' => [
         'submit'   => 'Submit',
