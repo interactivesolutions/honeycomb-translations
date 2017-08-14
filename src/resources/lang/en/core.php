@@ -45,6 +45,9 @@ return [
     'attributes'         => 'Attributes',
     'no_translation'     => 'No translation',
     'export'             => 'Export',
+    'increase'           => 'Increase',
+    'decrease'           => 'Decrease',
+    'neutral'            => 'Neutral',
 
     'buttons' => [
         'submit'   => 'Submit',
