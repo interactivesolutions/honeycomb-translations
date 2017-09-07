@@ -4,7 +4,7 @@ return [
     'id'                 => 'ID',
     'name'               => 'Name',
     'description'        => 'Description',
-    'copyright'          => '© 2014 - ' . config ('app.name') . ' ' . \Carbon\Carbon::now ()->year . '.',
+    'copyright'          => '© ' . config ('app.name') . ' ' . \Carbon\Carbon::now ()->year . '.',
     'list'               => 'List',
     'core'               => 'Core',
     'all'                => 'All',
@@ -48,6 +48,8 @@ return [
     'increase'           => 'Increase',
     'decrease'           => 'Decrease',
     'neutral'            => 'Neutral',
+    'countries'          => 'Countries',
+    'regions'            => 'Regions',
 
     'buttons' => [
         'submit'   => 'Submit',
