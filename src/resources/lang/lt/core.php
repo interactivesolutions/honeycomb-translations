@@ -4,7 +4,7 @@ return [
     'id'                 => 'ID',
     'name'               => 'Pavadinimas',
     'description'        => 'Aprašymas',
-    'copyright'          => '© 2014 - ' . config('app.name') . ' ' . \Carbon\Carbon::now()->year . '.',
+    'copyright'          => '© ' . config ('app.name') . ' ' . \Carbon\Carbon::now ()->year . '.',
     'list'               => 'Sąrašas',
     'core'               => 'Core',
     'all'                => 'Visi',
