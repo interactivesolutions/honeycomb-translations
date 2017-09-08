@@ -4,7 +4,7 @@ return [
     'id'                 => 'ID',
     'name'               => 'Pavadinimas',
     'description'        => 'Aprašymas',
-    'copyright'          => '© ' . config ('app.name') . ' ' . \Carbon\Carbon::now ()->year . '.',
+    'copyright'          => '© ' . config('app.name') . ' ' . \Carbon\Carbon::now()->year . '.',
     'list'               => 'Sąrašas',
     'core'               => 'Core',
     'all'                => 'Visi',
@@ -48,6 +48,8 @@ return [
     'increase'           => 'Padidinti',
     'decrease'           => 'Sumažinti',
     'neutral'            => 'Neutralus',
+    'countries'          => 'Šalys',
+    'regions'            => 'Regionai',
 
     'buttons' => [
         'submit'   => 'Pateikti',
