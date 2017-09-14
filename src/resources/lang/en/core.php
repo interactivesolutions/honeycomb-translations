@@ -50,6 +50,12 @@ return [
     'neutral'            => 'Neutral',
     'countries'          => 'Countries',
     'regions'            => 'Regions',
+    'country'            => 'Country',
+    'municipality'       => 'Municipality',
+    'city'               => 'City',
+    'logo'               => 'Logo',
+    'phone'              => 'Phone',
+    'fax'                => 'Fax',
 
     'buttons' => [
         'submit'   => 'Submit',
