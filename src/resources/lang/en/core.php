@@ -56,6 +56,7 @@ return [
     'logo'               => 'Logo',
     'phone'              => 'Phone',
     'fax'                => 'Fax',
+    'birthday'           => 'Birthday',
 
     'buttons' => [
         'submit'   => 'Submit',
