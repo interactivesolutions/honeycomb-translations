@@ -1,21 +1,15 @@
 {
-    "general":
-    {
-        "serviceProviderNameSpace": "HCTranslations"
-    },
-    "formData":
-    [
+  "general": {
+    "serviceProviderNameSpace": "HCTranslations"
+  },
+  "formData": [
+  ],
+  "adminMenu": [
+  ],
+  "acl": {
+    "permissions": [
     ],
-    "adminMenu":
-    [
-    ],
-    "acl":
-    {
-        "permissions" :
-        [
-        ],
-        "rolesActions" :
-        [
-        ]
-    }
+    "rolesActions": [
+    ]
+  }
 }

@@ -2,7 +2,8 @@
 
 namespace interactivesolutions\honeycombtranslations\app\providers;
 
-use interactivesolutions\honeycombcore\providers\HCBaseServiceProvider;
+
+use InteractiveSolutions\HoneycombCore\Providers\HCBaseServiceProvider;
 
 class HCTranslationsServiceProvider extends HCBaseServiceProvider
 {
